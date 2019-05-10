@@ -12,4 +12,4 @@ There are 3 folders here depending on the type of shared element.
 
 ## Update Process
 
-This library serves as the main repository for these files. Deployment stems from the content in the latest branch and should be sync'd to all systems using the shared element.
+This library serves as the main repository for these files. Deployment pulls from the content in the latest branch and should be sync'd to all systems using the shared element.
